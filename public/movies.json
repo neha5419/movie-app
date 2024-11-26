@@ -1,0 +1,131 @@
+{
+    "movies": [
+        {
+            "id": 1,
+            "title": "Mismatched",
+            "type": "series",
+            "year": 2020,
+            "poster": "/images/Mismatched.jpg",
+            "details": "Mismatched is a Hindi-language Indian romantic drama TV series on Netflix about two teenagers who develop feelings for each other after a disastrous set-up by their families"
+          },{
+            "id": 2,
+            "title": "Vampire Diaries",
+            "type": "series",
+            "year": 2009,
+            "poster": "/images/vamp.jpg",
+            "details": "The Vampire Diaries is a supernatural drama TV series that ran on The CW from 2009–2017. The show is about the lives of vampires and humans in the fictional town of Mystic Falls, Virginia, which is steeped in supernatural history. The series follows the lives of Elena Gilbert, a human teenager who falls in love with Stefan Salvatore, a 162-year-old vampire."
+    
+          },{
+            "id": 3,
+            "title": "Friends",
+            "type": "series",
+            "year": 2004,
+            "poster": "/images/friends.jpg",
+            "details": "Friends is a popular sitcom that ran for ten seasons and follows six friends in their twenties as they navigate their lives in New York City"
+    
+          },{
+            "id": 4,
+            "title": "Squid Game",
+            "type": "series",
+            "year": 2021,
+            "poster": "/images/squid.jpg",
+            "details": "Squid Game is a South Korean survival thriller series about a deadly contest where players risk their lives to win a large cash prize"
+    
+          },
+      {
+        "id": 5,
+        "title": "Emily In Paris",
+        "type": "series",
+        "year": 2020,
+        "poster": "/images/emily.jpg",
+        "details": "Emily in Paris is a Netflix series about an ambitious young marketing executive from Chicago who moves to Paris for her dream job"
+
+      },{
+        "id": 6,
+        "title": "13 Reasons Why",
+        "type": "series",
+        "year": 2007,
+        "poster": "/images/reasons.jpg",
+        "details": "13 Reasons Why is a teen drama TV series and young adult novel that tells the story of a high school student who commits suicide and leaves behind a series of cassette tapes that detail the reasons for her death"
+
+      },{
+        "id": 7,
+        "title": "Never Have I Ever",
+        "type": "series",
+        "year": 2023,
+        "poster": "/images/never.jpg",
+        "details": "Never Have I Ever is a Netflix show about Devi navigating the process of grieving and learning how to live with a loss. The show stars Maitreyi Ramakrishnan as Devi and Jaren Lewison as Ben Gross. "
+
+      },{
+        "id": 8,
+        "title": "Money Hiest",
+        "type": "series",
+        "year": 2021,
+        "poster": "/images/money.png",
+        "details": "Money Heist is a Spanish TV series about a group of robbers who attempt to steal billions of euros from the Royal Mint and Bank of Spain"
+      },{
+        "id": 9,
+        "title": "Dangal",
+        "type": "movie",
+        "year": 2016,
+        "poster": "/images/Dangal_Poster.jpg",
+        "details": "Dangal is a 2016 Hindi-language biographical drama and sports film about a former wrestler who trains his daughters to become world-class wrestlers"
+      },
+      {
+        "id": 10,
+        "title": "Aee Dil Hai Mushkil",
+        "type": "movie",
+        "year": 2016,
+        "poster": "/images/aee_dil.jpg",
+        "details": "Ae Dil Hai Mushkil is a 2016 Bollywood drama film about the complex emotions of love, heartbreak, and unrequited love"
+      },{
+        "id": 11,
+        "title": "You",
+        "type": "series",
+        "year": 2018,
+        "poster": "/images/you.jpg",
+        "details": "You is a psychological thriller TV series about a dangerously charming young man who becomes obsessed with people he's drawn to and goes to extreme lengths to insert himself into their lives"
+
+      },{
+        "id": 12,
+        "title": "Kapil Sharma Show",
+        "type": "series",
+        "year": 2016,
+        "poster": "/images/kapil.jpg",
+        "details": "Comedian Kapil Sharma interacts with celebrity guests about their latest films while keeping the audience laughing with his wit, humour and assorted skits."
+
+      },{
+        "id": 13,
+        "title": "Heeramandi",
+        "type": "series",
+        "year": 2024,
+        "poster": "/images/Heeramandi.jpg",
+        "details": "Heeramandi: The Diamond Bazaar is a 2024 Indian Hindi-language TV series on Netflix about the lives of courtesans in Lahore during the Indian independence movement"
+      },{
+        "id": 14,
+        "title": "Kal Ho Na Ho",
+        "type": "movie",
+        "year": 2003,
+        "poster": "/images/kal.jpg",
+        "details": "The film explores non-resident Indians, inter-caste marriage, and homosexuality through innuendo and homosocial bonding"
+
+      },{
+        "id": 15,
+        "title": "Campus Beats",
+        "type": "series",
+        "year": 2023,
+        "poster": "/images/campus.jpg",
+        "details": "Campus Beats is a drama series about a Gen Z girl who discovers her hidden dancing talents at a modern dance academy"
+
+      },{
+        "id": 16,
+        "title": "Tu Jhooti Mai Makkar",
+        "type": "movie",
+        "year": 2023,
+        "poster": "/images/jhoot.jpg",
+        "details": "Tu Jhoothi Main Makkaar is a 2023 Hindi romantic comedy film about a boy-meets-girl story that explores modern-day relationships and issues"
+
+      }
+    ]
+  }
+  
